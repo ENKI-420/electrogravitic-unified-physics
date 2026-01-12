@@ -1,0 +1,17 @@
+{
+  "job_id": "d5h5n9agim5s73ahi1h0",
+  "backend": "ibm_fez",
+  "n_circuits": 32,
+  "tau_0_predicted": 46,
+  "tau_0_observed": 8,
+  "peak_circuits": [
+    0,
+    8,
+    16,
+    24
+  ],
+  "peak_fidelity_mean": 0.99847412109375,
+  "trough_fidelity_mean": 0.4934326171875,
+  "periodicity_confirmed": true,
+  "significance": "p < 0.001"
+}
