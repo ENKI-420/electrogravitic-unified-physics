@@ -1,0 +1,15 @@
+{
+  "job_id": "d5ig81spe0pc73anfasg",
+  "backend": "ibm_fez",
+  "n_qubits": 156,
+  "shots": 4096,
+  "theta_lock_deg": 51.843,
+  "theta_pc_deg": 128.15699999999998,
+  "circuit_depth": 16,
+  "entangle_pairs": 30,
+  "pc_qubits": 15,
+  "timestamp": "2026-01-12T09:24:07.602634",
+  "experiment": "max_qubit_wormhole_advantage",
+  "hilbert_dim_log10": 46,
+  "estimated_advantage_log10": 31
+}
